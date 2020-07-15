@@ -1,0 +1,9 @@
+{
+  "name": "cdiesh",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@gmod/tabix": "^1.4.6"
+  }
+}
